@@ -140,5 +140,7 @@ During my tenure here, I honed my expertise in a wide array of technologies incl
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugslayerashok)](https://github.com/anuraghazra/github-readme-stats)
 
+![Ashok's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugslayerashok&theme=blue&show_icons=true)
+
 Feel free to reach out to me at prajapatiashok263@gmail.com for any queries or collaborations!
 
